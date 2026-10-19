@@ -1,0 +1,7 @@
+{
+  "total_questions": 20,
+  "passed": 20,
+  "failed": 0,
+  "preliminary_behaviour_score": 100.0,
+  "note": "Preliminary behaviour score based on whether the helper answered or refused as expected. Not a full factual-accuracy score."
+}

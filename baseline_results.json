@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What does the Moon orbit?",
+    "expected": "The Earth",
+    "answer": "The Moon orbits the **Earth**. This is explicitly stated in the study notes: \"The Moon orbits the Earth.\"",
+    "passed": true
+  },
+  {
+    "question": "Does the Moon make its own light?",
+    "expected": "No",
+    "answer": "No, the Moon does not make its own light. It reflects light from the Sun, which is why we can see it from Earth.",
+    "passed": true
+  },
+  {
+    "question": "What does the Moon reflect?",
+    "expected": "Light from the Sun",
+    "answer": "The Moon reflects **light from the Sun**. This is explicitly stated in the study notes, which clarify that the Moon does not produce its own light but instead reflects sunlight.",
+    "passed": true
+  },
+  {
+    "question": "How long does Earth take to orbit the Sun?",
+    "expected": "365 days",
+    "answer": "Earth takes about **365 days** to orbit the Sun.",
+    "passed": true
+  },
+  {
+    "question": "How often does Earth rotate?",
+    "expected": "24 hours",
+    "answer": "Earth rotates once approximately every 24 hours.",
+    "passed": true
+  },
+  {
+    "question": "Does the Moon orbit Earth?",
+    "expected": "Yes",
+    "answer": "Yes, the Moon orbits the Earth. This is explicitly stated in the study notes: \"The Moon orbits the Earth.\" Additionally, the notes clarify that the Moon does not produce its own light but reflects sunlight, which is why we can see it from Earth.",
+    "passed": true
+  },
+  {
+    "question": "Does the Moon produce its own light?",
+    "expected": "No",
+    "answer": "No, the Moon does not produce its own light. It reflects light from the Sun, which is why we can see it in the night sky.",
+    "passed": true
+  },
+  {
+    "question": "What gives the Moon its light?",
+    "expected": "The Sun",
+    "answer": "The Moon does not produce its own light. Instead, it reflects light from the Sun, which is why we can see it in the night sky.",
+    "passed": true
+  },
+  {
+    "question": "How many days does Earth take to orbit the Sun?",
+    "expected": "365 days",
+    "answer": "The Earth takes about **365 days** to orbit the Sun.",
+    "passed": true
+  },
+  {
+    "question": "How many hours are in one Earth rotation?",
+    "expected": "24 hours",
+    "answer": "The study notes state that \"Earth rotates once approximately every 24 hours.\" Therefore, **one Earth rotation takes 24 hours**.",
+    "passed": true
+  },
+  {
+    "question": "Why does the Moon orbit Earth?",
+    "expected": "Missing from notes",
+    "answer": "NO ANSWER",
+    "passed": false
+  },
+  {
+    "question": "How long does the Moon take to orbit Earth?",
+    "expected": "Missing from notes",
+    "answer": "The study notes provided do not specify how long the Moon takes to orbit Earth. They mention the Moon orbits the Earth but do not include the duration of this orbital period. To answer this question accurately, additional information (e.g., the Moon's orbital period is approximately **27.3 days**) would be needed, which is not provided in the given notes.",
+    "passed": false
+  },
+  {
+    "question": "What is the temperature of the Sun?",
+    "expected": "Missing from notes",
+    "answer": "The study notes provided do not include information about the temperature of the Sun. They focus on the Moon's orbit around Earth, Earth's orbit around the Sun, and Earth's rotation. To answer your question, the Sun's surface temperature is approximately **5,500\u00b0C (9,932\u00b0F)**, but this detail is not covered in the supplied notes.",
+    "passed": false
+  },
+  {
+    "question": "How old is the Moon?",
+    "expected": "Missing from notes",
+    "answer": "The study notes provided do not include information about the age of the Moon. They focus on the Moon's orbit around Earth, its reflection of sunlight, and Earth's orbital and rotational characteristics. To answer how old the Moon is, additional scientific context (e.g., geological or astronomical data) would be required.",
+    "passed": false
+  },
+  {
+    "question": "What is the Moon made of?",
+    "expected": "Missing from notes",
+    "answer": "The study notes provided do not include information about the composition of the Moon. They focus on the Moon's orbital relationship with Earth, its reflection of sunlight, and Earth's orbital and rotational characteristics. To learn about the Moon's composition (e.g., rock types, minerals, or elements), additional scientific resources or data would be required.",
+    "passed": false
+  },
+  {
+    "question": "How far is Earth from the Sun?",
+    "expected": "Missing from notes",
+    "answer": "The study notes provided do not include information about the distance between Earth and the Sun. They mention Earth's orbital period (about 365 days) and its rotation period (approximately 24 hours), but not the specific distance. To answer this question, additional scientific data would be required, such as the average distance of about **93 million",
+    "passed": false
+  },
+  {
+    "question": "How many moons does Mars have?",
+    "expected": "Missing from notes",
+    "answer": "NO ANSWER",
+    "passed": false
+  },
+  {
+    "question": "What causes Earth's seasons?",
+    "expected": "Missing from notes",
+    "answer": "I couldn't find that answer in your notes.",
+    "passed": true
+  },
+  {
+    "question": "How big is the Sun?",
+    "expected": "Missing from notes",
+    "answer": "The study notes provided do not include information about the size of the Sun. They focus on topics such as the Moon's orbit around Earth, Earth's orbit around the Sun, and Earth's rotation. To answer how big the Sun is, you would need additional scientific data, such as its diameter (approximately 1.39 million kilometers) or comparisons to other celestial bodies. Let me know if you'd like help finding that information!",
+    "passed": false
+  },
+  {
+    "question": "What is the Moon's surface temperature?",
+    "expected": "Missing from notes",
+    "answer": "The study notes provided do not include information about the Moon's surface temperature. The notes focus on the Moon's orbit around Earth, its reflection of sunlight, and Earth's orbital and rotational characteristics. To answer the question about the Moon's surface temperature, additional scientific data would be required.",
+    "passed": false
+  }
+]

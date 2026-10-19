@@ -1,0 +1,11 @@
+{
+  "questions_tested": 20,
+  "baseline_passed": 11,
+  "baseline_failed": 9,
+  "baseline_score_percent": 55.0,
+  "improved_passed": 20,
+  "improved_failed": 0,
+  "improved_score_percent": 100.0,
+  "difference_percentage_points": 45.0,
+  "note": "Preliminary behaviour check only; not a full factual-accuracy score."
+}
